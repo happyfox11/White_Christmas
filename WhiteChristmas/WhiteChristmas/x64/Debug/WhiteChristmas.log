@@ -1,0 +1,65 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(WhiteChristmas_201811119_박한별.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  whiteChristmas.cpp
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(10,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(12,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(15,37): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(16,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(17,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(20,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(21,34): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(22,39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(23,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(72,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(76,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(79,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(82,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(101,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(102,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(103,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(104,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(105,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(106,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(107,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(108,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(109,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(110,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(134,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(136,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(138,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(142,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(145,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(149,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(153,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(157,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(161,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(165,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(276,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(280,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(285,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(292,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(297,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(299,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(304,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(343,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(348,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(353,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(360,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(365,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(367,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(370,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(381,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(382,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(383,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(384,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(385,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(386,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(387,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(388,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(389,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(390,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(398,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(404,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(413,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(419,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\project_git\컴퓨터그래픽스\WhiteChristmas\WhiteChristmas\whiteChristmas.cpp(606,32): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  WhiteChristmas.vcxproj -> C:\project_git\컴퓨터그래픽스\WhiteChristmas\x64\Debug\WhiteChristmas.exe
