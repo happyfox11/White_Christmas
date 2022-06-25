@@ -10,7 +10,7 @@ Using opengl, three-dimensional expression of the scenery on a snowy day !
 <br/>
 
 ## ❄️ 개요
-<img src = "https://user-images.githubusercontent.com/89199587/175756112-ea56dba2-b77f-4dcc-a9a9-4457e81efcd1.gif" width = "80%"/>
+<img src = "https://user-images.githubusercontent.com/89199587/175756664-89754e2f-cb5e-4d8b-9343-aa4b1815bf86.gif" width = "80%"/>
 - Opengl을 이용한, 눈이 오는 크리스마스의 풍경을 동적으로 표현  
 - 2차원 및 기본적인 3차원 그래픽스 모델에 기하변환(신축/ 이동/ 회전) 적용  
   - 모델좌표계, 전역좌표계, 시점좌표계 등의 좌표계 개념을 이해  
